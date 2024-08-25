@@ -11,8 +11,6 @@
   <img src="https://user-images.githubusercontent.com/45101690/88816121-b13e9b00-d1d9-11ea-9679-13ffb74841ec.png" alt="programming" width="300" height="300"/>
 </p>
 
----
-
 ## About Me
 
 Hi there! I'm Sandeep, a passionate programmer with a keen interest in game development and open-source contributions. I love to explore new technologies and apply them in creative ways to solve problems.
