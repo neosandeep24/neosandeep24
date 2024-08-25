@@ -43,9 +43,9 @@ Hi there! I'm Sandeep, a passionate programmer with a keen interest in game deve
 
 ## Latest Projects
 
-- **[Project Name 1](#)**: Brief description of the project.
-- **[Project Name 2](#)**: Brief description of the project.
-- **[Project Name 3](#)**: Brief description of the project.
+- **Generative AI**: created chatbots, text summarizer, auto response generator using AWS.
+- **Disease prediction**: multi disease prediction using ML, Django website.
+- **Robotic Arm**: made using 3d printer and controlled using opencv, arduino, servomotors.
 
 Check out more on [My GitHub Repositories](https://github.com/neosandeep24?tab=repositories).
 
