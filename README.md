@@ -51,7 +51,7 @@ Check out more on [My GitHub Repositories](https://github.com/neosandeep24?tab=r
 
 ## Skills
 
-- **Languages**: C#, Python, JavaScript
+- **Languages**: C++, C#, Python, JavaScript
 - **Frameworks**: Unity, Unreal Engine
 - **Tools**: Git, Blender, Visual Studio
 
