@@ -29,15 +29,6 @@ Hi there! I'm Sandeep, a passionate programmer with a keen interest in game deve
   <a href="https://www.linkedin.com/in/sandeep-nidamanuri-4460a522b" target="_blank"><img src="https://user-images.githubusercontent.com/45101690/88830367-7b0a1700-d1eb-11ea-9ab1-5ab4699a1660.gif" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neosandeep24&show_icons=true&theme=radical" alt="Sandeep's GitHub Stats" width="400"/>
-</p>
-
----
 
 ## Latest Projects
 
