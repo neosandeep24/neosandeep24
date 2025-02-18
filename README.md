@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">An enthusiastic programmer passionate about learning new skills</h3>
-<h4 align="center">Youtube | Game Developer | Open Source Enthusiast</h4>
+<h4 align="center">Youtuber | Game Developer | Open Source Enthusiast</h4>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45101690/88816121-b13e9b00-d1d9-11ea-9679-13ffb74841ec.png" alt="programming" width="300" height="300"/>
