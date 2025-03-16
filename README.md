@@ -32,6 +32,7 @@ Hi there! I'm Sandeep, a passionate programmer with a keen interest in game deve
 
 ## Latest Projects
 
+- **BizAnalytics**: converts csv into valuable data insights using graphs.
 - **Generative AI**: created chatbots, text summarizer, auto response generator using AWS.
 - **Disease prediction**: multi disease prediction using ML, Django website.
 - **Robotic Arm**: made using 3d printer and controlled using opencv, arduino, servomotors.
