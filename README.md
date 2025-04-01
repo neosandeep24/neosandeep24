@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sandeep Nidamanuri</h1>
+<h1 align="center">Hello, I'm Sandeep </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90">
