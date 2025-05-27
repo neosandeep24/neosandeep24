@@ -42,7 +42,7 @@ Check out more on [My GitHub Repositories](https://github.com/neosandeep24?tab=r
 
 ## Skills
 
-- **Languages**: C++, C#, Python, JavaScript
+- **Languages**: C++, Python, Embedded C, JavaScript
 - **Frameworks**: React, Node JS, Unity
 - **Tools**: Git, Visual Studio
 
