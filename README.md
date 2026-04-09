@@ -21,12 +21,6 @@ Hi there! I'm Sandeep, a passionate programmer with a keen interest in game deve
 
 ---
 
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.youtube.com/@theneostudios" target="_blank"><img src="https://github.com/neosandeep24/neosandeep24/assets/103883917/5ff7d7fd-1212-4a19-9131-692974a9ca43" alt="YouTube" width="100" height="40"/></a>
-</p>
-
 
 ## Latest Projects
 
