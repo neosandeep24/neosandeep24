@@ -12,9 +12,9 @@
 
 ## About Me
 
-Hi there! I'm Sandeep, a passionate programmer with a keen interest in game development and open-source contributions. I love to explore new technologies and apply them in creative ways to solve problems.
+Hi there! I'm Sandeep, a programmer with a keen interest in development and open-source contributions. I love to explore new technologies and apply them in creative ways to solve problems.
 
-- 🌱 Currently learning new development techniques.
+- 🌱 Currently learning new development techniques (Cloud, AI, Electronics).
 - 🛠️ Always tinkering with new tools and frameworks.
 - 🤝 Open to collaborating on exciting projects.
 ---
